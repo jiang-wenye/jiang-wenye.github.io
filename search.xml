@@ -4,13 +4,58 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2021/06/26/hello-world/"/>
-      <url>/2021/06/26/hello-world/</url>
+      <title>主题配置</title>
+      <link href="/2021/06/28/%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/"/>
+      <url>/2021/06/28/%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h3 id="Something-intend-to-do"><a href="#Something-intend-to-do" class="headerlink" title="Something intend to do"></a>Something intend to do</h3><ul><li><input disabled="" type="checkbox"> 菜单栏功能与图标<br>&emsp;</li><li><input disabled="" type="checkbox"> 文章置顶<br>&emsp;</li><li><input disabled="" type="checkbox"> 文章自动添加read more<br>&emsp;</li><li><input disabled="" type="checkbox"> 添加友链页面</li></ul><span id="more"></span><h3 id="Something-done"><a href="#Something-done" class="headerlink" title="Something done"></a>Something done</h3><ul><li><input checked="" disabled="" type="checkbox"> 分享、rss订阅的取消<br>&emsp;</li><li><input checked="" disabled="" type="checkbox"> valine评论功能<br>&emsp;选择了valine提供的评论功能，不需要注册登录即可评论。</li></ul>]]></content>
       
       
+      <categories>
+          
+          <category> 主题 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 主题 </tag>
+            
+            <tag> 自定义 </tag>
+            
+            <tag> to do list </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>少女的继承法</title>
+      <link href="/2021/02/03/%E5%B0%91%E5%A5%B3%E7%9A%84%E7%BB%A7%E6%89%BF%E6%B3%95/"/>
+      <url>/2021/02/03/%E5%B0%91%E5%A5%B3%E7%9A%84%E7%BB%A7%E6%89%BF%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<h3 id="2021-02-03"><a href="#2021-02-03" class="headerlink" title="2021/02/03"></a>2021/02/03</h3><p>&emsp;&emsp;<em>1422年的夏季，伊勒提君的铃兰盛放，我不由得记起我不谙世事的童年来。</em><br>&emsp;&emsp;<em>晨曦熹微，我在花丛中玩耍，外罩的小西服开了几颗扣子，加了金线的裤脚被露水濡湿。我的母亲把我叫到身旁。她俯下身为我理好衣衫，在我的夕雾花胸针后又别上了一束铃兰。母亲说：“铃兰的花语是‘幸福归来’。”</em><br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<em>——《奈姬大帝手稿》</em></p><span id="more"></span><p>&emsp;&emsp;远处槭树鲜红，红叶迎秋，女佣们在夕照下劳作。她们用锋利的刀划开槭树粗粝的树皮，又用刀刃稍厚的砍刀在树干上开了几条少女尾指宽的缝，槭树浆便汩汩流出。未经加工的槭树浆没有成品糖浆的甜腻——清冽之中甚至带着一丝滞涩。</p><p>&emsp;&emsp;乌拉诺斯笔下行云流水，在画布里的天空中补上一只飞鸟，最后在枯黄的草丛中用钢笔签下“乌拉诺斯”。顿了顿，他又一字一划地写下————“奈姬”。</p><p>&emsp;&emsp;巴兰·西西拉适时上前：“天色已晚，殿下该回去了。”</p><p>&emsp;&emsp;乌拉诺斯应声颔首起身，将外套上的褶子抚平，走在了前面。身姿挺拔却又有点漫步中庭的感觉，而他的目的却是整个勃兰特帝国的权力中心。</p><p>&emsp;&emsp;巴兰露出笑容：“那时殿下逆光而行，铂金色的头发被镀成了金色，浅灰色的眸子里也充满了阳光的温度。后来我每次想起这件事，我心里就会有个声音告诉我：‘巴兰·西西拉就是在这样一个平凡无奇的秋日傍晚，爱上奈姬·博尔吉亚的。’”</p><p>&emsp;&emsp;乌拉诺斯慢条斯理地用过晚餐后开始处理今日内阁呈递上来的文件。</p><p>&emsp;&emsp;老国王约瑟夫四世的身体日益衰败，勃兰特帝国的至高权柄正逐渐向第一顺位继承人——乌拉诺斯手中转移。尽管上议院仍未传出确立王储的消息来，但几乎每一个伊勒提君人都知道：乌拉诺斯·博尔吉亚已成为实际意义上的夕雾花王朝的王太子，他缺的只有一个“王储”的虚名。</p><p>&emsp;&emsp;统治阶级深谙舆论之道，平民知道的往往都是贵族为他们的行径蒙上的一层纱。</p><p>&emsp;&emsp;事实上，乌拉诺斯书桌上的每一封文件都已经得到了议会与内阁的认可，其中有的政令甚至已经开始实行。呈递给乌拉诺斯不过是走个过场，面子上好看。</p><p>&emsp;&emsp;阿诺逊·博尔吉亚——乌拉诺斯兄长的遗腹子，背后有着不少的支持者。明面上，在这场王储之争中，阿诺逊是乌拉诺斯最大的竞争对手。而暗地里，不知又有多少人向撒罕皇帝亨利·薛西斯抛出了橄榄枝？</p><p>&emsp;&emsp;新历1412年冬，勃兰特在失去了二十座城邦后向撒罕宣告了投降。</p><p>&emsp;&emsp;新历1413年春，撒罕皇帝亨利亲赴勃兰特王都与勃兰特皇帝查理六世和谈，史称“伊勒提君会谈”。</p><p>&emsp;&emsp;传闻在迎接宾客的筵席上，亨利与凯瑟琳公主一见钟情。亨利许诺凯瑟琳公主王后之位，并承诺撒罕与勃兰特互结友好，开放通商。</p><p>&emsp;&emsp;年轻的君王与公主殿下的婚礼震惊了整个北陆。撒罕为了迎接公主的到来，在公主车队的途经之地铺满了红毯与鲜花；伴随着公主出嫁的，是数不尽的黄金与来自东方国度的丝绸、瓷器、香料。教皇亲自为凯瑟琳公主加冕，祈求圣灵的祝福。这场婚礼，让每一个少女妒羡。</p><p>&emsp;&emsp;</p><h3 id="2021-06-28（？）"><a href="#2021-06-28（？）" class="headerlink" title="2021/06/28（？）"></a>2021/06/28（？）</h3>]]></content>
+      
+      
+      <categories>
+          
+          <category> 小说 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 旧稿 </tag>
+            
+            <tag> 无cp </tag>
+            
+            <tag> 中世纪架空 </tag>
+            
+        </tags>
       
     </entry>
     
